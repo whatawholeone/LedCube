@@ -1,1 +1,1 @@
-fcserver.exe -c cube_config.json
+fcserver.exe cube_config.json

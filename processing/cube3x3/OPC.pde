@@ -336,7 +336,6 @@ public class OPC implements Runnable
 
     try {
       output.write(packetData);
-      println(packetData);
     } 
     catch (Exception e) {
       dispose();
